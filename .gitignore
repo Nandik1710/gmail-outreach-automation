@@ -1,0 +1,7 @@
+venv/
+credentials.json
+token.json
+contacts.csv
+sent_log.csv
+.env
+__pycache__/
